@@ -1,1 +1,1 @@
-# haf-za_oyunu_kart
+# hafıza_oyunu
