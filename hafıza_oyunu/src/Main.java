@@ -21,7 +21,7 @@ public class Main {
         kartlar[2][0] = new Kart('F');
         kartlar[2][1] = new Kart('C');
         kartlar[2][2] = new Kart('D');
-        kartlar[2][3] = new Kart('H');
+        kartlar[2][3]=new Kart('H)    
         kartlar[3][0] = new Kart('E');
         kartlar[3][1] = new Kart('G');
         kartlar[3][2] = new Kart('B');
